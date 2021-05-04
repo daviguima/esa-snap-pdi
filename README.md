@@ -2,22 +2,30 @@ This is a repository with educational material about ESA-SNAP-8.
 
 Please serve yourself :nerd_face:
 
+<br>
 
-Useful links:
+Useful links
 ---
-### [Download][3] SNAP!
+##### Download [SNAP][3]
 
-### SNAP [technologies][4].
+##### SNAP [technologies][4].
 
-### About [Sentinel-2][9].
+##### About [Sentinel-2][9].
 
-### Download Sentinel-2 Level-1C tiling grid from the [ESA official docs][2] or my [Google Drive][1].
+##### Sentinel-2 Spatial and Spectral [Resolutions][10].
 
-### Download S1/S2/S3 images at Copernicus Open Access Hub ([scihub][5]).
+<br>
 
-### Download Sentinel-3-only products at Copernicus Online Data Access ([CODA][6]) or [CODArep][7].
+Download Sentinel and other satellite images
+---
 
-### Sentinel-2 Spatial and Spectral [Resolutions][10].
+##### Download Sentinel-2 Level-1C tiling grid from the [ESA official docs][2] or my [Google Drive][1].
+
+##### Download S1/S2/S3 images at Copernicus Open Access Hub ([scihub][5]).
+
+##### Download Sentinel-3-only products at Copernicus Online Data Access ([CODA][6]) or [CODArep][7].
+
+##### EUMETSAT Data Centre [Archive][8]
 
 
 [1]: https://drive.google.com/file/d/1QU2pAngRdE7edn2EAfrCDkjIXLwUR2C-/view?usp=sharing
